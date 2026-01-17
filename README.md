@@ -1,4 +1,4 @@
-# 📱 eCommerce iOS App - Walmart Search Challenge
+# 📱 eCommerce iOS App - Search Challenge
 
 ![Swift](https://img.shields.io/badge/Swift-6.0-orange?style=flat-square&logo=swift)
 ![Platform](https://img.shields.io/badge/iOS-16.0%2B-blue?style=flat-square&logo=apple)
