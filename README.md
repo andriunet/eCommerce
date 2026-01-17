@@ -53,16 +53,16 @@ ECommerceApp
 ├── Core
 │   └── AppConfig.swift          # Configuración global (API Keys, URLs, Constantes)
 ├── Models
-│   ├── Product.swift            # Modelo de dominio (Identifiable & Hashable)
+│   ├── Product.swift            # Modelo de dominio
 │   ├── SearchResponse.swift     # Mapeo de respuesta JSON compleja (Codable)
 │   └── ErrorWrapper.swift       # Helper para manejo de alertas en SwiftUI
 ├── Services
-│   ├── NetworkManager.swift     # Cliente HTTP Genérico (Singleton Actor)
+│   ├── NetworkManager.swift     # Cliente HTTP Genérico
 │   └── APIEndpoint.swift        # Constructor de rutas, queries y requests
 ├── ViewModels
 │   └── SearchViewModel.swift    # Lógica de negocio, paginación y gestión de estado
 └── Views
-    ├── eCommerceView.swift      # Vista Principal (Screen)
+    ├── eCommerceView.swift      # Vista Principal
     └── Components
         ├── ProductRow.swift     # Celda de producto optimizada y extraída
         ├── ProductListView.swift# Lista con lógica de paginación integrada
