@@ -102,3 +102,10 @@ Este proyecto no utiliza dependencias externas (sin CocoaPods ni SPM), por lo qu
     * Presiona `Cmd + R` o el botón de **Run** en Xcode.
   
    
+### 👨‍💻 Autor
+
+**Andrés Marín**
+*Senior iOS Engineer*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/andresmaring)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat-square&logo=github)](https://github.com/andriunet)
